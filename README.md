@@ -1,5 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acmhuang/Acmhuang/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Acmhuang/Acmhuang/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Acmhuang/Acmhuang/output/github-contribution-grid-snake.svg">
-</picture>
+![](https://raw.githubusercontent.com/Acmhuang/Acmhuang/refs/heads/output/github-contribution-grid-snake.svg)
+
+### 仓库信息
+![技术栈](https://github-readme-stats.vercel.app/api/top-langs/?username=Acmhuang&layout=compact&theme=tokyonight)
